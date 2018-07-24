@@ -2,9 +2,9 @@
 <rss version="2.0">
 
 <channel>
-  <title>Servicio Paramilitar Hell</title>
+  <title>Olallo rubio Podcast</title>
   <link>https://www.w3schools.com</link>
-  <description>[T1 E3] Debido al clima de  inseguridad y la paranoia en la ciudad de México, se crea la agencia de seguridad privada “HELL\"</description>
+  <description>old rss feed</description>
   <item>
     <title>¿El podcast es gratis?</title>
     <link>https://files.convoynetwork.com/episodes/audios/d2466331c3f67d7f9bd6ccb9218fef48497a4da5.mp3</link>
@@ -12,8 +12,10 @@
   </item>
   <item>
     <title>Libertad de expresión - ¿Qué es un podcast?</title>
+    <enclosure url="https://files.convoynetwork.com/episodes/audios/613caf690aebf0b8b0dd3dbe455c7ecd08717c59.mp3" />
     <link>https://files.convoynetwork.com/episodes/audios/613caf690aebf0b8b0dd3dbe455c7ecd08717c59.mp3</link>
     <description>[T1 E1] Primer episodio del Podcast. El piloto con el que inició todo.</description>
+    <content:encoded>[T1 E1] Primer episodio del Podcast. El piloto con el que inició todo.</content:encoded>
   </item>
 </channel>
 
