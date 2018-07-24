@@ -3,14 +3,16 @@
 
 <channel>
   <title>Olallo rubio Podcast</title>
-  <link>https://www.w3schools.com</link>
-  <description>old rss feed</description>
+  <itunes:image href="https://files.convoynetwork.com/podcasts/covers/d4970f80e91f00c977766b557fbb4bd21b7151c1.png" />
+  <link>https://convoynetwork.com/podcasts/2</link>
+  <description>Humor, sátira, denuncia social, solos de guitarra, y todo lo que ocurre dentro del infinito e impredecible universo del podcast de Olallo Rubio</description>
   <item>
     <title>¿El podcast es gratis?</title>
     <enclosure url="https://files.convoynetwork.com/episodes/audios/d2466331c3f67d7f9bd6ccb9218fef48497a4da5.mp3" />
     <link>https://files.convoynetwork.com/episodes/audios/d2466331c3f67d7f9bd6ccb9218fef48497a4da5.mp3</link>
     <description>[T1 E2] Olallo explora las posibilidades que tendría el equipo de producción del podcast  si cobrara una suscripción.</description>
      <content:encoded>[T1 E2] Olallo explora las posibilidades que tendría el equipo de producción del podcast  si cobrara una suscripción.</content:encoded>
+    <itunes:image href="https://files.convoynetwork.com/podcasts/covers/d4970f80e91f00c977766b557fbb4bd21b7151c1.png" />
   </item>
   <item>
     <title>Libertad de expresión - ¿Qué es un podcast?</title>
@@ -18,6 +20,7 @@
     <link>https://files.convoynetwork.com/episodes/audios/613caf690aebf0b8b0dd3dbe455c7ecd08717c59.mp3</link>
     <description>[T1 E1] Primer episodio del Podcast. El piloto con el que inició todo.</description>
     <content:encoded>[T1 E1] Primer episodio del Podcast. El piloto con el que inició todo.</content:encoded>
+    <itunes:image href="https://files.convoynetwork.com/podcasts/covers/d4970f80e91f00c977766b557fbb4bd21b7151c1.png" />
   </item>
 </channel>
 
