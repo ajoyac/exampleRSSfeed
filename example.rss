@@ -7,8 +7,10 @@
   <description>old rss feed</description>
   <item>
     <title>¿El podcast es gratis?</title>
+    <enclosure url="https://files.convoynetwork.com/episodes/audios/d2466331c3f67d7f9bd6ccb9218fef48497a4da5.mp3" />
     <link>https://files.convoynetwork.com/episodes/audios/d2466331c3f67d7f9bd6ccb9218fef48497a4da5.mp3</link>
     <description>[T1 E2] Olallo explora las posibilidades que tendría el equipo de producción del podcast  si cobrara una suscripción.</description>
+     <content:encoded>[T1 E2] Olallo explora las posibilidades que tendría el equipo de producción del podcast  si cobrara una suscripción.</content:encoded>
   </item>
   <item>
     <title>Libertad de expresión - ¿Qué es un podcast?</title>
